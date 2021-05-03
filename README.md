@@ -17,3 +17,14 @@ _Where,_ <br />
 
 _Here,_ <br />
 ![Slope of Line](https://github.com/prnvvj/Linear-Regression/blob/main/PNG/slop%20of%20line.PNG)
+
+![error indication](https://github.com/prnvvj/Linear-Regression/blob/main/PNG/error-indication.PNG)
+- Here the Blue points represents the original data points and the Red points represents the predicted Y values.
+- Distnace between the actual and predicted values are known ad error or residuals.
+- The best fit line should have the least number of square of these errors, also known as e-square.
+
+##### Finding the Best Fit Line:
+**  Minimizing the Errors **
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are lot of ways to minimize the distance between the line and the data points like _**"Sum of Squared Errors", "Sum of Absolute Errors", "Root Mean Square Errors"**_, etc.
+_We keep moving the line through the data points to make sure the best fit line has the least square distance between the data points and the regression line._
+
