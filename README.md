@@ -13,11 +13,6 @@ _Where,_ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _C = Coefficient of the line_  <br />
 
 ![Line Graph](https://github.com/prnvvj/Linear-Regression/blob/main/PNG/equation-of-a-straight-line.png)
-
-
-_Here,_ <br />
-![Slope of Line](https://github.com/prnvvj/Linear-Regression/blob/main/PNG/slop%20of%20line.PNG)
-
 ![error indication](https://github.com/prnvvj/Linear-Regression/blob/main/PNG/error-indication.PNG)
 - Here the Blue points represents the original data points and the Red points represents the predicted Y values.
 - Distnace between the actual and predicted values are known ad error or residuals.
