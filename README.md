@@ -24,7 +24,7 @@ _Here,_ <br />
 - The best fit line should have the least number of square of these errors, also known as e-square.
 
 ##### Finding the Best Fit Line:
-**  Minimizing the Errors **
+**Minimizing the Errors:** <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are lot of ways to minimize the distance between the line and the data points like _**"Sum of Squared Errors", "Sum of Absolute Errors", "Root Mean Square Errors"**_, etc.
 _We keep moving the line through the data points to make sure the best fit line has the least square distance between the data points and the regression line._
 
