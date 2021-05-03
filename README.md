@@ -15,4 +15,5 @@ _Where,_ <br />
 ![Line Graph](https://github.com/prnvvj/Linear-Regression/blob/main/PNG/equation-of-a-straight-line.png)
 
 
-
+_Here,_
+![Slope of Line](https://github.com/prnvvj/Linear-Regression/blob/main/PNG/slop%20of%20line.PNG)
