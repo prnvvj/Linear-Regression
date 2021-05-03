@@ -4,5 +4,6 @@
 ### Regression Equation:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Simplest form of a simple linear regression equation with one dependent and one independent variable is presented by:
 
--> Y = mX + C <-
+<div align="center"> Y = mX + C </div>
+
 
