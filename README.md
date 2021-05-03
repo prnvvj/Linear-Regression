@@ -6,4 +6,13 @@
 
 <div align="center"> Y = mX + C </div>
 
+_Where,_
+>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Y = Dependent variable_
+>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _X = Independent variable_
+>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _m = Slop of the line_
+>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _C = Coefficient of the line_
+
+
+
+
 
