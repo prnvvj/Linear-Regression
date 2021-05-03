@@ -5,11 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Simplest form of a simple linear regression equation with one dependent and one independent variable is presented by:
 
 <div align="center"> Y = mX + C </div>
-<br />
-```
-Y = mX + C
-```
-<br />
+
 _Where,_ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Y = Dependent variable_  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _X = Independent variable_  <br />
